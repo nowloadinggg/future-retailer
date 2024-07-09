@@ -5,6 +5,9 @@ Conducted analysis in Python to surface insights on Future Retailer company perf
 - Power Query
 - Dax Query
 - Data modeling
+# Dashboard images
+![Uploading image.png…]()
+
 # 📫 How to reach me
 As a beginner, I am fully aware how my codes can be improved to increase efficiency. Any recommendation, suggestion and criticism is welcomed. 
 
